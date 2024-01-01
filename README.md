@@ -8,6 +8,7 @@
  -Pokhara Engineering College (2079).
  ### Connect with me
  -[Facebook](https://www.facebook.com/ronica.tamang.7)
+ -[Linkedin](https://www.linkedin.com/in/ronika-rumba-2a12922a4/)
 ### Experience 
 -Flutter developer internship in Thulo Technology.
 ### Experience
