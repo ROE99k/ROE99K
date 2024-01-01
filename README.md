@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**ROE99k/ROE99K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ronika Rumba 👋
+ -Hello my name is Ronika Rumba. I am  a flutter developer from Nepal country doing internship at Thulo Technology. I am Computer Engineering student.
+ ### My works
+ -Internal testing in the apps(Guess the flag, Birthday wishes,Motivational Quotes,Ludo Master,Image converter,Colour blind test,Passport size photo maker).
+ ### Education 
+ -Siddhartha English Boarding School (2075).
+ -Prativa English Boarding School (2077).
+ -Pokhara Engineering College (2079).
+ ### Connect with me
+ -[Facebook](https://www.facebook.com/ronica.tamang.7)
+### Experience 
+-Flutter developer internship in Thulo Technology.
+### Experience
+-C
+-c++
+-SQL
+-Dart
+-Data strucuture and algorithm.
