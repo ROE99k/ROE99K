@@ -12,8 +12,8 @@
 ### Experience 
 -Flutter developer internship in Thulo Technology.
 ### Experience
--C
--c++
--SQL
--Dart
--Data strucuture and algorithm.
+- C
+- C++
+- SQL
+- Dart
+- Data strucuture and algorithm.
