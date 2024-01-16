@@ -1,7 +1,7 @@
 ### Ronika Rumba 👋
- -Hello my name is Ronika Rumba. I am  a flutter developer from Nepal country doing internship at Thulo Technology. I am Computer Engineering student.
+- Hello my name is Ronika Rumba. I am  a flutter developer from Nepal country doing internship at Thulo Technology. I am Computer Engineering student.
  ### My works
- -Internal testing in the apps(Guess the flag, Birthday wishes,Motivational Quotes,Ludo Master,Image converter,Colour blind test,Passport size photo maker).
+Internal testing in the apps(Guess the flag, Birthday wishes,Motivational Quotes,Ludo Master,Image converter,Colour blind test,Passport size photo maker).
  ### Education 
  -Siddhartha English Boarding School (2075).
  -Prativa English Boarding School (2077).
