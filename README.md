@@ -10,8 +10,8 @@ Hello I am Ronika Rumba, flutter developer from Nepal. Currently, doing internsh
 - Expneses Tracker
 
 ### Connect with me
-- [LinkedIn]()
-- [facebook]()
+- [LinkedIn](https://www.linkedin.com/in/ronika-rumba-2a12922a4/)
+- [facebook](https://www.facebook.com/ronica.tamang.7)
 - [Email](mailto:roneecarumba99@gmail.com)
 
 ### Education
